@@ -1,0 +1,27 @@
+*{
+  padding:0px;
+  mrgin:0px;
+  }
+  .outer{
+  width:600px;
+  height:700px;
+  border:1px solid black;
+  margin:0px auto;
+}
+.outer h1{
+  text-align:center;
+}
+p{
+  font size:25px;
+}
+.border{
+  width:100px;
+  padding:5px;
+  background-color: : inherit;
+  border:1px solid black;
+  font-weight: bold;
+}
+u1{
+  font-size: 20px;
+  margin-left: 20px;
+}
